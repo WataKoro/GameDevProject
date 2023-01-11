@@ -181,7 +181,7 @@ Window_Base.prototype.normalColor = function() {
 };
 
 Window_Base.prototype.systemColor = function() {
-    return this.textColor(16);
+    return this.textColor(6);
 };
 
 Window_Base.prototype.crisisColor = function() {
